@@ -3,3 +3,8 @@
 * {
   font-family: Outfit;
 }
+
+@theme {
+  --font-Outfit: "Outfit", "sans-serif";
+  --font-Ovo: "Ovo", "serif";
+}
