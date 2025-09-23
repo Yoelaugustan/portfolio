@@ -10,9 +10,16 @@
   --color-dark-theme: #11001F;
 }
 
+@layer utilities {
+  .grid-cols-auto {
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  }
+}
+
 .hover\:black-shadow:hover {
   box-shadow: 4px 4px 0 #000;
 }
 .hover\:white-shadow:hover {
   box-shadow: 4px 4px 0 #fff;
 }
+

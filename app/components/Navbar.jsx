@@ -47,7 +47,6 @@ const Navbar = () => {
           <li><a className={`${ovo.className}`} href='#about'>About me</a></li>
           <li><a className={`${ovo.className}`} href='#services'>Services</a></li>
           <li><a className={`${ovo.className}`} href='#work'>My Work</a></li>
-          <li><a className={`${ovo.className}`} href='#contact'>Contact me</a></li>
         </ul>
 
         <div className='flex items-center gap-4'>
