@@ -9,3 +9,10 @@
   --color-dark-hover: #2a004a;
   --color-dark-theme: #11001F;
 }
+
+.hover\:black-shadow:hover {
+  box-shadow: 4px 4px 0 #000;
+}
+.hover\:white-shadow:hover {
+  box-shadow: 4px 4px 0 #fff;
+}
