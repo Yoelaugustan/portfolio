@@ -47,6 +47,7 @@ const Navbar = ({isDarkMode, setIsDarkMode}) => {
           <li><a className={`${ovo.className}`} href='#about'>About me</a></li>
           <li><a className={`${ovo.className}`} href='#services'>Services</a></li>
           <li><a className={`${ovo.className}`} href='#work'>My Work</a></li>
+          <li><a className={`${ovo.className}`} href='#footer'>Contact me</a></li>
         </ul>
 
         <div className='flex items-center gap-4'>
@@ -72,7 +73,7 @@ const Navbar = ({isDarkMode, setIsDarkMode}) => {
           <li><a className={`${ovo.className}`} onClick={closeMenu} href='#about'>About me</a></li>
           <li><a className={`${ovo.className}`} onClick={closeMenu} href='#services'>Services</a></li>
           <li><a className={`${ovo.className}`} onClick={closeMenu} href='#work'>My Work</a></li>
-          <li><a className={`${ovo.className}`} onClick={closeMenu} href='#contact'>Contact me</a></li>
+          <li><a className={`${ovo.className}`} onClick={closeMenu} href='#footer'>Contact me</a></li>
         </ul>
       </nav>
     </>
