@@ -39,7 +39,7 @@ const Navbar = ({isDarkMode, setIsDarkMode}) => {
       </div>
       <nav className={`w-full fixed px-5 lg:px-8 xl:px-[8%] py-4 flex items-center justify-between z-50 ${isScroll ? "bg-white/50 backdrop-blur-lg shadow-xs dark:bg-dark-theme dark:shadow-white/20" : ""}`}>
         <a href='#home'>
-          <Image src={isDarkMode ? assets.logo_dark : assets.logo} alt="" className='w-28 cursor-pointer mr-14'/>
+          <Image src={isDarkMode ? "/logo_dark.png" : "/logo.png"} width={90} height={90} alt="" className='cursor-pointer mr-14'/>
         </a>
 
         <ul className={`hidden md:flex items-center gap-6 lg:gap-8 rounded-full px-12 py-3 ${isScroll ? "" : "bg-white/50 shadow-sm dark:border dark:border-white/50 dark:bg-transparent"}`}>

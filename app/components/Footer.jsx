@@ -5,9 +5,9 @@ import React from 'react'
 
 const Footer = ({isDarkMode}) => {
   return (
-    <div id='footer' className='mt-20'>
+    <div id='footer' className='mt-1  0'>
       <div className='text-center'>
-        <Image src={isDarkMode ? assets.logo_dark : assets.logo} alt='' className='w-36 mx-auto mb-2'/>
+        <Image src={isDarkMode ? "/logo_dark.png" : "/logo.png"} width={120} height={120} alt='' className='mx-auto mb-3'/>
 
         <h4 className={`${ovo.className} text-center text-lg`}>Contact me:</h4>
 
