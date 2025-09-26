@@ -13,14 +13,17 @@ To run this project locally:
 ```bash
 git clone https://github.com/Yoelaugustan/portfolio.git
 cd portfolio
+```
 
-2. Install dependencies
-
+### 2. Install dependencies
+```bash
 npm install
+```
 
-3. Run the development server
-
+### 3. Run the development server
+```bash
 npm run dev
+```
 
 Open http://localhost:3000 with your browser to see the result.
 
