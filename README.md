@@ -11,8 +11,8 @@ To run this project locally:
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/Yoelaugustan/portofolio.git
-cd portofolio
+git clone https://github.com/Yoelaugustan/portfolio.git
+cd portfolio
 
 2. Install dependencies
 
