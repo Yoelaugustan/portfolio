@@ -75,24 +75,28 @@ export const assets = {
 
 export const workData = [
     {
-        title: 'Frontend project',
-        description: 'Web Design',
+        title: 'PixPlore',
+        description: 'Mobile App with AI',
         bgImage: '/work-1.png',
+        link: 'https://github.com/Yoelaugustan/PixPlore-Mobile',
     },
     {
-        title: 'Geo based app',
-        description: 'Mobile App',
+        title: 'PDFLearn',
+        description: 'Web App with AI',
         bgImage: '/work-2.png',
+        link: 'https://github.com/Yoelaugustan/PDFLearn',
     },
     {
-        title: 'Photography site',
-        description: 'Web Design',
+        title: 'WeLearn',
+        description: 'Web App',
         bgImage: '/work-3.png',
+        link: 'https://github.com/reynardaj/WeLearn',
     },
     {
-        title: 'UI/UX designing',
-        description: 'UI/UX Design',
+        title: 'Traffic Sign Recog.',
+        description: 'AI Research',
         bgImage: '/work-4.png',
+        link: '/1571167124 stamped.pdf',
     },
 ]
 
