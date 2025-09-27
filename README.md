@@ -6,8 +6,12 @@ It showcases a brief introduction about me and my projects
 ---
 
 ## Run the project
+Use this link:
+https://portfolio-eight-theta-zjg217qh2y.vercel.app/
 
-To run this project locally:
+or 
+
+Run this project locally:
 
 ### 1. Clone the repository
 ```bash
