@@ -77,7 +77,7 @@ export const workData = [
     {
         title: 'PixPlore',
         description: 'Mobile App with AI',
-        bgImage: '/work-1.png',
+        bgImage: '/work-1.jpeg',
         link: 'https://github.com/Yoelaugustan/PixPlore-Mobile',
     },
     {
